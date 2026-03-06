@@ -62,9 +62,9 @@ The project follows a complete machine learning workflow:
 
 - Customer Risk Segmentation
 
-- Exploratory Data Analysis
-
-- EDA was performed to understand patterns in customer churn behavior.
+## Exploratory Data Analysis:
+ 
+ EDA was performed to understand patterns in customer churn behavior.
 
 ## Key visualizations included:
 

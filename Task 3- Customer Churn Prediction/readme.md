@@ -88,7 +88,7 @@ The project follows a complete machine learning workflow:
 
 Several preprocessing steps were applied before model training.
 
-- Removed Irrelevant Columns
+### Removed Irrelevant Columns:
 
 - RowNumber
 

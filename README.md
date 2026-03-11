@@ -9,6 +9,7 @@ The projects covers three tasks: **credit card fraud detection, customer churn p
 
 # Repository Structure:
 MYDAILYWORK
+
 │
 
 ├── Task_2_Credit_Card_Fraud_Detection

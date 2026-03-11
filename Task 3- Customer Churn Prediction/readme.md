@@ -250,8 +250,11 @@ This segmentation enables businesses to prioritize retention strategies.
 
 ### Project Structure:
 Task_3_Customer_Churn_Prediction
+
 │
+
 ├── Task_3_Customer_Churn_Prediction.ipynb
+
 └── README.md
 
 # Conclusion:

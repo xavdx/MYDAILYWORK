@@ -161,5 +161,4 @@ The model learned character patterns and generated new text sequences resembling
 
 # Note:
 
-The dataset link provided in the internship instructions for the **Handwritten Text Generation task** redirected to the HuggingFace *Trending Papers* page instead of an actual dataset.  
-Therefore, the **IAM Handwriting Dataset** was used via the HuggingFace datasets library to obtain handwritten text transcriptions for model training.
+**IAM Handwriting Dataset** was used via the HuggingFace datasets library to obtain handwritten text transcriptions for model training.

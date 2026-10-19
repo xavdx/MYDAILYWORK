@@ -1,6 +1,6 @@
-# Machine Learning Internship Tasks
+# Machine Learning Projects:
 
-This repository contains the projects completed as part of a **Machine Learning Internship**.  
+This repository contains three Machine Learning projects.  
 The objective of these tasks was to build practical machine learning solutions using real-world datasets.
 
 The projects covers three tasks: **credit card fraud detection, customer churn prediction, and character-level text generation using RNNs**.
